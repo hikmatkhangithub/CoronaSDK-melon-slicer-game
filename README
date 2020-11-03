@@ -1,12 +1,12 @@
 # Melon slicer game on Lua programming language
 
-##Description
+## Description
 Melon slicer Fruit is a game for mobile application, it is a gesture-based action-packed game like Fruit Ninja.
  This project was developed for a semester course "Multimedia Application".
 This game will run on iPhone, iPad, and Android devices.
 It is made for Corona SDK
 
-##Requirements
+## Requirements
 Lua
 Corona SDK
 
@@ -33,7 +33,7 @@ After installing lua
 3. Run the project
 
 ## Usage
-you can use it for playing arounf Lua programming language and understand what is corona SDK.
+you can use it for playing around Lua programming language and understand what is corona SDK.
 
 ## Licence
 Not licenced its a self repository.
